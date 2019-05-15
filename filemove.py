@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar 13 21:02:05 2019
-
-@author: HP
+@author: vee_nit
 """
 
 import shutil
@@ -10,9 +8,9 @@ import os
 from tqdm import tqdm
 
 #file path
-source = "C:\\Users\\HP\\Desktop\\cell_images\Parasitized"
+source = "C:\\Users\\D\\Desktop\\cell_images\Parasitized"
 #destination path
-dest1 = "C:\\Users\\HP\\Desktop\\cell_images\\Parasitized_Test"
+dest1 = "C:\\Users\\D\\Desktop\\cell_images\\Parasitized_Test"
 
 import math
 files = os.listdir(source)
