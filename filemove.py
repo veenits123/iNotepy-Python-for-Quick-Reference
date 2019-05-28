@@ -20,3 +20,4 @@ mark = math.floor(split * len(files))
 
 for f in tqdm(files[mark:]):
         shutil.move(source+"\\"+f, dest1)
+#ceil & floor
