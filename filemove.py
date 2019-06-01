@@ -14,6 +14,7 @@ dest1 = "C:\\Users\\D\\Desktop\\cell_images\\Parasitized_Test"
 
 import math
 files = os.listdir(source)
+# list all
 
 split = 0.70
 mark = math.floor(split * len(files))
