@@ -11,11 +11,13 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 
 <h1>Skills you will get</h1>
 <b>1. Basic Python
-  2. Basic Numpy
-  3. Basic Pandas
-  4. Python for Machine Learning
-  5. Function
-  6. Array
+  2. Array
+  3. Function
+  4. Basic Numpy
+  5. Basic Pandas
+  6. Python for Machine Learning
+ 
+  
   
   
   </b>
